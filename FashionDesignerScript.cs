@@ -28,3 +28,4 @@ public class FashionDesignerScript : MonoBehaviour
     {
         "I feel comfortable in it and good about myself"
     }
+}
