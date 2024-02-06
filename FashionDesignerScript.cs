@@ -16,7 +16,7 @@ public class FashionDesignerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        "Try on new outfit"
+        Debug.Log("Try on new outfit")
     }
 
     void Awake()
@@ -26,6 +26,6 @@ public class FashionDesignerScript : MonoBehaviour
 
     void FixedUpdate()
     {
-        "I feel comfortable in it and good about myself"
+         Debug.Log("I feel comfortable in it and good about myself")
     }
 }
