@@ -10,7 +10,7 @@ public class Respawn : MonoBehaviour
 
     public void RespwanPlayer()
     {
-        if {playerPrefab && respawnPoint
+        if (playerPrefab && respawnPoint)
         {
             Instantiate(playerPrefab, respawnPoint.position, Quaternion.identity);
         }
