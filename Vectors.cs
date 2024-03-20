@@ -24,8 +24,10 @@ public class Vectors : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    
+
+    void FixedUpdate()
     {
-        
+         UseStaticProperties();
     }
 }
